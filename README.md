@@ -1,5 +1,7 @@
 # Heroku Buildpack QPDF
 
+NOTE: this buildpack is changed to suit needs of a private project. Clone at your own risk.
+
 This is a Heroku buildpack for using `qpdf` in your project.
 
 The binaries for this pack are fetched from Amazon's Ubuntu packages mirror.
